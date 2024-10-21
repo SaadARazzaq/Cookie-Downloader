@@ -2,6 +2,8 @@
 
 This project allows you to download browser cookies in JSON format directly from the browser's console. It extracts cookies from the current webpage and downloads them as a `cookies.json` file.
 
+<img src="https://github.com/user-attachments/assets/6bc44c3f-3039-496d-b91e-30335d15cdd0">
+
 ## How it Works
 
 The script performs the following actions:
